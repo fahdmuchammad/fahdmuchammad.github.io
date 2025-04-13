@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 # 👋 Hi, I'm [Nama Kamu]
 
